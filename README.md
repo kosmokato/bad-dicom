@@ -13,5 +13,6 @@ For more information about this files please read the [d00rt's original paper](h
 You can open this file in two main ways:
 1.  As a DCM: just open in with a DicomViewer as [MicroDicomViewer](http://www.microdicom.com/) or with *powershell*
 2.  As a PE: open it wioth *CMD* or rename it to *'DoomDicom.exe'*
+3.  With the script loader.py from this tool (not released yet).
 
 DoomDicom.dcm was made with my tool BAD-DICOM, that will be released in the future. Stay in tune for new changes!
