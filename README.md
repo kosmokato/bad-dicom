@@ -15,4 +15,8 @@ You can open this file in two main ways:
 2.  As a PE: open it with *CMD.exe* or rename it to *'DoomDicom.exe'*
 3.  With the script loader.py from this tool (not released yet).
 
-DoomDicom.dcm was made with my tool BAD-DICOM, that will be released in the future. Stay in tune for new changes!
+DoomDicom.dcm was made with my tool BAD-DICOM, but at the end *I'm not releasing it*, for ethical concerns.
+
+In a few days I'll upload the whole capstone report from my college.
+
+Please enjoy the detection rules, feedback would be appreciated!
