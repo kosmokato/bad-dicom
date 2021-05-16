@@ -1,7 +1,7 @@
 rule cve_2019_11687_pedicom : pedicom bad_dicom dicom
 {
 	meta:
-		// This rule seeks PEDICOM CVE-2019-11687
+		/* This rule seeks PEDICOM CVE-2019-11687 */
 		author = "@kosmokato"
 		source = "https://github.com/kosmokato/bad-dicom"
 		description = "This rule finds functional PEDICOM"
