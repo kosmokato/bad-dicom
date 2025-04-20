@@ -2,7 +2,7 @@
 
 PoC of my handcrafted CVE-2019-11687's exploit tool.
 
-I've crafted this PEDICOM as a Proof of Concept for my college's capstone: "_Detection and prevention of attacks based on vulnereabilities of DICOM files against medical management services_".
+I've crafted this PEDICOM as a Proof of Concept for my college's capstone: "_Detection and prevention of attacks based on vulnerabilities of DICOM files against medical management services_".
 
 
 ## What is a PEDICOM
